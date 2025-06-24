@@ -9,7 +9,7 @@ My goal is to keep learning and growing in my career. I am ready to face challen
 
 ## 🛠 Skills
 
-- **Mobile Application Development**: Developing mobile applications with Kotlin, JetpackCompose and Firebase, including TFG with such technologies. (Link to my TFG)  
+- **Mobile Application Development**: Developing mobile applications with Kotlin, JetpackCompose and Firebase, including TFG with such technologies.
 - **Web Development**: Development of websites with technologies such as HTML5, CSS, React, JavaScript, PHP and XML. Knowledge in Wordpress.  
 - **Databases**: Database management with MySQL and PostgreSQL also using phpMyAdmin for visual administration.  
 - **Automation and APIs**: Knowledge of developing REST APIs using Spring Boot and Maven.  
