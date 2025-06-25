@@ -28,8 +28,6 @@ My goal is to keep learning and growing in my career. I am ready to face challen
 
 **WatchinIt (TFG)**
 
-[![GitHub](https://img.shields.io/badge/-WatchinIt-%23000?style=for-the-badge&logo=github)](https://github.com/robeitshere/WatchinIt)
-
 [![Download WatchinIt](https://img.shields.io/badge/Download%20WatchinIt-%23white.svg?style=for-the-badge&logo=android&logoColor=white)](https://docs.google.com/uc?export=download&id=1fT59BCqHs2geaErOorf-X-NuD-KyOxZA)
 
 
@@ -41,9 +39,4 @@ My goal is to keep learning and growing in my career. I am ready to face challen
 [![Cv](https://img.shields.io/badge/download%20cv-6e6e6e?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/1xpLgraZHUzqqcroQfCLEWrL8PFmFgpD-/view?usp=sharing)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robesangil)
-
-
-## 📊Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeitshere&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
