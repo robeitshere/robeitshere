@@ -5,8 +5,6 @@ I am a highly motivated professional who has gone through a dual training progra
 
 My goal is to keep learning and growing in my career. I am ready to face challenges, and I am open to collaborating with other developers to achieve common goals.
 
-![Logo](https://media.licdn.com/dms/image/v2/D5616AQFb-EvIazc1lw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1724680401522?e=1756339200&v=beta&t=pe6sCWHkiaQuttFTBY0QoQ3zISvSnXtYQfTReIdV50U)
-
 ## 🛠 Skills
 
 - **Mobile Application Development**: Developing mobile applications with Kotlin, JetpackCompose and Firebase, including TFG with such technologies. (Link to my TFG)  
