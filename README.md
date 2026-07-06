@@ -12,7 +12,7 @@ Also experienced with: **Kotlin · Jetpack Compose · Firebase · Spring Boot ·
 
 I am a junior full-stack developer focused on building maintainable applications, solving technical issues and collaborating in digital projects with a practical approach.
 
-Reach me at: **robesangil04@gmail.com** · [LinkedIn](https://www.linkedin.com/in/robesangil) · [Download CV](https://drive.google.com/file/d/14ExgSaSbjWr_LPQRyzzkLv6dCfA0zvH8/view?usp=drive_link)
+Reach me at: **robesangil04@gmail.com** · [LinkedIn](https://www.linkedin.com/in/robesangil) · [Download CV](https://drive.google.com/file/d/14ExgSaSbjWr_LPQRyzzkLv6dCfA0zvH8/view?usp=sharing)
 
 ---
 
@@ -158,7 +158,7 @@ This project was created as my final degree project, applying modern Android dev
 
 [![Email](https://img.shields.io/badge/Email-robesangil04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robesangil04@gmail.com)
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-6e6e6e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14ExgSaSbjWr_LPQRyzzkLv6dCfA0zvH8/view?usp=drive_link)
+[![Download CV](https://img.shields.io/badge/Download%20CV-6e6e6e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14ExgSaSbjWr_LPQRyzzkLv6dCfA0zvH8/view?usp=sharing)
 
 ---
 
