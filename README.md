@@ -95,7 +95,7 @@ My goal is to keep learning, improve as a developer, and contribute to digital p
 
 Mobile application developed with Kotlin, Jetpack Compose and Firebase.
 
-[![Download WatchinIt](https://img.shields.io/badge/Download%20WatchinIt-%23white.svg?style=for-the-badge&logo=android&logoColor=white)](https://docs.google.com/uc?export=download&id=1fT59BCqHs2geaErOorf-X-NuD-KyOxZA)
+[![Download WatchinIt](https://img.shields.io/badge/Download%20WatchinIt-%23white.svg?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/uc?export=download&id=111z4DKcmsPIdWdPMd8aedHFCPFLKOy6r)
 
 ---
 
@@ -106,5 +106,3 @@ Mobile application developed with Kotlin, Jetpack Compose and Firebase.
 [![CV](https://img.shields.io/badge/download%20cv-6e6e6e?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/14ExgSaSbjWr_LPQRyzzkLv6dCfA0zvH8/view?usp=sharing)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robesangil)
-
-[![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
