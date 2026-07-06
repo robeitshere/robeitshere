@@ -146,9 +146,9 @@ This project was created as my final degree project, applying modern Android dev
 
 > Replace `robesangil` with your real GitHub username if needed.
 
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robesangil&show_icons=true&theme=tokyonight&hide_border=true)
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robeitshere&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robesangil&layout=compact&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeitshere&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
