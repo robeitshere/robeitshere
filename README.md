@@ -12,7 +12,7 @@ Also experienced with: **Kotlin · Jetpack Compose · Firebase · Spring Boot ·
 
 I am a junior full-stack developer focused on building maintainable applications, solving technical issues and collaborating in digital projects with a practical approach.
 
-Reach me at: **robesangil04@gmail.com** · [LinkedIn](https://www.linkedin.com/in/robesangil) · [Download CV](https://drive.google.com/file/d/12aIaGEMk2YcTHdn4RO9Hm8VIjp2FC-8V/view?usp=sharing)
+Reach me at: **robesangil04@gmail.com** · [LinkedIn](https://www.linkedin.com/in/robesangil) · [Download CV](https://drive.google.com/file/d/14ExgSaSbjWr_LPQRyzzkLv6dCfA0zvH8/view?usp=drive_link)
 
 ---
 
@@ -70,13 +70,45 @@ Reach me at: **robesangil04@gmail.com** · [LinkedIn](https://www.linkedin.com/i
 
 ## 🚀 Relevant Projects
 
-| Project | Stack | Description |
-|---|---|---|
-| **WatchinIt** | Kotlin · Jetpack Compose · Firebase | Final Degree Project developed as a mobile application using modern Android technologies |
-| **Internal Web Platform** | Python · React | Full-stack development of an internal platform focused on practical business needs |
-| **Angular Platform Migration** | Angular · TypeScript | Migration and adaptation of existing web functionalities to a new architecture |
-| **WordPress Client Websites** | WordPress · PHP · HTML · CSS | Development, maintenance and customization of websites for clients |
-| **Management Dashboards** | Python · Databases · Web | Data analysis and dashboard development to support operational tracking |
+### WatchinIt - Final Degree Project
+
+Mobile application developed with **Kotlin**, **Jetpack Compose** and **Firebase**.
+
+This project was created as my final degree project, applying modern Android development practices and focusing on building a functional mobile application.
+
+[![Download WatchinIt](https://img.shields.io/badge/Download%20WatchinIt-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/uc?export=download&id=111z4DKcmsPIdWdPMd8aedHFCPFLKOy6r)
+
+---
+
+### Internal Web Platform
+
+| Stack | Description |
+|---|---|
+| Python · React | Full-stack development of an internal platform focused on practical business needs |
+
+---
+
+### Angular Platform Migration
+
+| Stack | Description |
+|---|---|
+| Angular · TypeScript | Migration and adaptation of existing web functionalities to a new architecture |
+
+---
+
+### WordPress Client Websites
+
+| Stack | Description |
+|---|---|
+| WordPress · PHP · HTML · CSS | Development, maintenance and customization of websites for clients |
+
+---
+
+### Management Dashboards
+
+| Stack | Description |
+|---|---|
+| Python · Databases · Web | Data analysis and dashboard development to support operational tracking |
 
 ---
 
@@ -126,9 +158,7 @@ Reach me at: **robesangil04@gmail.com** · [LinkedIn](https://www.linkedin.com/i
 
 [![Email](https://img.shields.io/badge/Email-robesangil04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robesangil04@gmail.com)
 
-[![Download CV](https://img.shields.io/badge/Download%20CV-6e6e6e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12aIaGEMk2YcTHdn4RO9Hm8VIjp2FC-8V/view?usp=sharing)
-
-[![Download WatchinIt](https://img.shields.io/badge/Download%20WatchinIt-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://docs.google.com/uc?export=download&id=1fT59BCqHs2geaErOorf-X-NuD-KyOxZA)
+[![Download CV](https://img.shields.io/badge/Download%20CV-6e6e6e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/14ExgSaSbjWr_LPQRyzzkLv6dCfA0zvH8/view?usp=drive_link)
 
 ---
 
