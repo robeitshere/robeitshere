@@ -142,16 +142,6 @@ This project was created as my final degree project, applying modern Android dev
 
 ---
 
-## 📊 Github Stats
-
-> Replace `robesangil` with your real GitHub username if needed.
-
-![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robeitshere&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robeitshere&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 🫴 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto%20Sánchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robesangil)
