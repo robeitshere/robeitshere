@@ -1,108 +1,135 @@
-# Hey, I'm Roberto Sánchez Gilibert
+# Hi, I'm Roberto Sánchez 👋
 
-I am a Junior Full-Stack Developer with experience in web development, WordPress maintenance, Angular migrations, Python and React-based solutions, and database management.
+![ROBERTO_BANNER](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Roberto%20Sánchez%20Gilibert&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Junior%20Full-Stack%20Developer&descAlignY=58&descSize=18)
 
-I have completed a dual training program in Multiplatform Application Development, combining academic learning with practical experience in real work environments. This has helped me build solid technical skills, adapt quickly to professional projects, and develop a practical approach to solving problems.
+## About Me 👨‍💻
 
-My goal is to keep learning, improve as a developer, and contribute to digital projects by building maintainable applications, solving technical issues, and collaborating with other developers.
+Currently working as **Full-Stack Developer at MetaProtec** — building and maintaining web solutions, internal platforms and client websites.
 
----
+Main stack: **Python · React · Angular · WordPress · MySQL · PostgreSQL · GitLab**
 
-## 🛠 Skills
+Also experienced with: **Kotlin · Jetpack Compose · Firebase · Spring Boot · Maven · MQTT · OSINT tools**
 
-- **Web Development**: Development of websites using HTML5, CSS, JavaScript, React, PHP and XML. Experience with WordPress, including content management, customization and maintenance.
+I am a junior full-stack developer focused on building maintainable applications, solving technical issues and collaborating in digital projects with a practical approach.
 
-- **Full-Stack Development**: Development of internal web platforms using Python and React.
-
-- **Angular Development**: Migration and development of web platforms with Angular, adapting existing features to new architectures.
-
-- **Mobile Application Development**: Development of mobile applications with Kotlin, Jetpack Compose and Firebase, including my final degree project.
-
-- **Databases**: Management of MySQL and PostgreSQL databases, using phpMyAdmin for visual administration and maintenance.
-
-- **Automation and APIs**: Basic development of REST APIs using Spring Boot and Maven, focused on structured and scalable services.
-
-- **Version Control**: Use of Git with GitLab and GitHub, including branch management, teamwork and merge requests.
-
-- **Programming**: Knowledge of Java and Python, applying object-oriented programming and good development practices.
-
-- **IoT and Information Analysis**: Basic knowledge of MQTT systems for communication and device counting, as well as initial use of OSINT tools for information gathering and analysis.
-
-- **Project Management**: Experience organizing, tracking and managing tasks using tools such as Jira.
+Reach me at: **robesangil04@gmail.com** · [LinkedIn](https://www.linkedin.com/in/robesangil) · [Download CV](https://drive.google.com/file/d/12aIaGEMk2YcTHdn4RO9Hm8VIjp2FC-8V/view?usp=sharing)
 
 ---
 
-## 💼 Work Experience
+## ⚙️ Tech Stack
 
-### **MetaProtec - Full-Stack Developer**
-**June 2025 - Present**
+### Backend
 
-- Maintenance and development of WordPress websites for clients, including updates, functional adjustments and issue resolution.
-- Full-stack development with Python and React on an internal web platform.
-- Migration and development of web platforms in Angular, adapting existing functionalities to new architectures.
-- Data analysis and development of management dashboards to support operational tracking.
-- Collaboration on digital solutions for logistics management in events.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **MetaProtec - Internship Student**
-**November 2024 - June 2025**
+### Frontend
 
-- Development and maintenance of WordPress websites for clients.
-- Creation and customization of pages according to functional and visual project requirements.
-- Support in content management, error review and design adaptation.
-- First contact with MQTT systems and OSINT tools for basic information gathering and analysis.
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### **Atos - Internship Student**
-**April 2024 - June 2024**
+### Mobile
 
-- Practical development and learning in projects based on Spring Framework and Spring MVC.
-- Application of backend concepts such as controllers, routes, project structure and dependency management.
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=000000)
 
----
+### Databases
 
-## 🎓 Education and Certifications
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-### **Higher Degree in Multiplatform Application Development**
-**I.E.S Hermanos Machado**  
-2023 - 2025
+### Tools & Platforms
 
-### **Technological Sciences Baccalaureate**
-**I.E.S María Galiana**  
-2021 - 2023
-
-### **Certifications and Courses**
-
-- **B1 Cambridge English** - 2019
-- **B2 Cambridge English** - 2022
-- **Dynamic Web Page Creation, Programming and Design** - Instituto Andaluz de la Juventud
-- **React Fundamentals** - OpenWebinars
-- **Figma Course** - Udemy
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-A259FF?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 👤 About Me
+## 💼 Experience
 
-🌐 I am currently working on web application projects developed with Python, React and Angular.
-
-🕵️ I am also learning about cybersecurity through my current professional experience.
-
-🚀 I enjoy building practical digital solutions, improving existing platforms and learning new technologies that help me grow as a developer.
+| Company | Role | Period | Main Tasks |
+|---|---|---|---|
+| **MetaProtec** | Full-Stack Developer | June 2025 - Present | WordPress maintenance, Python & React development, Angular migrations, dashboards and digital solutions for event logistics |
+| **MetaProtec** | Internship Student | November 2024 - June 2025 | WordPress websites, page customization, content management, error review, MQTT and OSINT basics |
+| **Atos** | Internship Student | April 2024 - June 2024 | Spring Framework and Spring MVC learning, backend concepts, controllers, routes and dependency management |
 
 ---
 
-## 🔗 Projects
+## 🚀 Relevant Projects
 
-### **WatchinIt - Final Degree Project**
+| Project | Stack | Description |
+|---|---|---|
+| **WatchinIt** | Kotlin · Jetpack Compose · Firebase | Final Degree Project developed as a mobile application using modern Android technologies |
+| **Internal Web Platform** | Python · React | Full-stack development of an internal platform focused on practical business needs |
+| **Angular Platform Migration** | Angular · TypeScript | Migration and adaptation of existing web functionalities to a new architecture |
+| **WordPress Client Websites** | WordPress · PHP · HTML · CSS | Development, maintenance and customization of websites for clients |
+| **Management Dashboards** | Python · Databases · Web | Data analysis and dashboard development to support operational tracking |
 
-Mobile application developed with Kotlin, Jetpack Compose and Firebase.
+---
 
-[![Download WatchinIt](https://img.shields.io/badge/Download%20WatchinIt-%23white.svg?style=for-the-badge&logo=android&logoColor=white)](https://drive.google.com/uc?export=download&id=111z4DKcmsPIdWdPMd8aedHFCPFLKOy6r)
+## 🎓 Education & Certificates
+
+- **Higher Degree in Multiplatform Application Development** — I.E.S Hermanos Machado  
+  `2023 - 2025`
+
+- **Technological Sciences Baccalaureate** — I.E.S María Galiana  
+  `2021 - 2023`
+
+- **B1 Cambridge English**  
+  `2019`
+
+- **B2 Cambridge English**  
+  `2022`
+
+- **Dynamic Web Page Creation, Programming and Design** — Instituto Andaluz de la Juventud
+
+- **React Fundamentals** — OpenWebinars
+
+- **Figma Course** — Udemy
+
+---
+
+## 📌 Currently Learning
+
+- Cybersecurity fundamentals through professional experience
+- Full-stack development with Python, React and Angular
+- Better practices for scalable, maintainable and collaborative software projects
+
+---
+
+## 📊 Github Stats
+
+> Replace `robesangil` with your real GitHub username if needed.
+
+![Roberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=robesangil&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robesangil&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
 ## 🫴 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logoColor=white)](mailto:robesangil04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto%20Sánchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robesangil)
 
-[![CV](https://img.shields.io/badge/download%20cv-6e6e6e?style=for-the-badge&logoColor=white)](https://drive.google.com/file/d/14ExgSaSbjWr_LPQRyzzkLv6dCfA0zvH8/view?usp=sharing)
+[![Email](https://img.shields.io/badge/Email-robesangil04%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:robesangil04@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robesangil)
+[![Download CV](https://img.shields.io/badge/Download%20CV-6e6e6e?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/12aIaGEMk2YcTHdn4RO9Hm8VIjp2FC-8V/view?usp=sharing)
+
+[![Download WatchinIt](https://img.shields.io/badge/Download%20WatchinIt-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://docs.google.com/uc?export=download&id=1fT59BCqHs2geaErOorf-X-NuD-KyOxZA)
+
+---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer)
